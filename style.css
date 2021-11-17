@@ -1,0 +1,8 @@
+:root {
+    --bg-info: rgb(0,123,255);
+}
+
+nav {
+    background-color: var(--bg-info);
+    color: var(--bg-white);
+}
