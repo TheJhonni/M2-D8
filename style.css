@@ -1,5 +1,4 @@
 :root {
-
   --bg-info: rgb(0, 123, 255);
 }
 
@@ -50,9 +49,7 @@ div.bg-success {
   justify-content: end;
 }
 
-
 .bg-dark-grey {
-    background-color: rgb(189, 189, 189);
-    color: black;
+  background-color: rgb(189, 189, 189);
+  color: black;
 }
-
