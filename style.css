@@ -54,3 +54,8 @@ div.bg-success-left {
     background-color: rgb(255,228,31)
     ;
 }
+
+.bg-dark-grey {
+    background-color: rgb(189, 189, 189);
+    color: black;
+}
