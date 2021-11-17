@@ -2,7 +2,29 @@
     --bg-info: rgb(0,123,255);
 }
 
+*{
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: black;
+}
+
 nav {
     background-color: var(--bg-info);
     color: var(--bg-white);
+}
+
+.h400 {
+    height: 400px;
+}
+
+.ex1Div {
+    
+    border-radius: 30px;
+}
+
+div.bg-success {
+    border: 3px solid black;
+    border-radius: 30px 0 0 30px;
 }
