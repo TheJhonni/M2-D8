@@ -49,6 +49,7 @@ div.bg-success {
   justify-content: end;
 }
 
-.mxh {
-  min-height: 60px;
+.bg-dark-grey {
+  background-color: rgb(189, 189, 189);
+  color: black;
 }
