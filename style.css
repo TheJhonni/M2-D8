@@ -20,11 +20,36 @@ nav {
 }
 
 .ex1Div {
-    
     border-radius: 30px;
 }
 
 div.bg-success {
     border: 3px solid black;
     border-radius: 30px 0 0 30px;
+}
+
+div.bg-success-left {
+    border: 3px solid black;
+    border-radius: 0px 30px 30px 0px;
+}
+
+.columns-gap {
+    display: flex;
+    flex-direction: column;
+    column-gap: 1px;
+}
+
+.bg-1 {
+    background-color: rgb(255,247,189)
+    ;
+}
+
+.bg-2 {
+    background-color: rgb(255,237,105)
+    ;
+}
+
+.bg-3 {
+    background-color: rgb(255,228,31)
+    ;
 }
